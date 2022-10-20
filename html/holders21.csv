@@ -2,17 +2,22 @@ position,person,personID,start,end
 President,Robert Guéï,Q357802,1999-12-24,2000-10-26
 President,Laurent Gbagbo,Q179242,2000-10-26,2011-04-11
 President,Alassane Ouattara,Q57413,2010-12-04,
-Vice-President,Daniel Kablan Duncan,Q58154,2017-01-16,
+Vice-President,Daniel Kablan Duncan,Q58154,2017-01-16,2020-07-08
+Vice-President,Tiémoko Meyliet Koné,Q19392607,2022-04-19,
 Prime Minister,Seydou Diarra,Q1394077,2000-05-18,2000-10-18
 Prime Minister,Pascal Affi N'Guessan,Q717915,2000-10-27,2003-02-10
 Prime Minister,Seydou Diarra,Q1394077,2003-02-10,2005-12-07
 Prime Minister,Charles Konan Banny,Q455728,2005-12-07,2007-04-07
+Prime Minister,Guillaume Kigbafori Soro,Q313994,2007-04-04,2012-03-13
+Prime Minister,Gilbert Aké,Q971859,2010-12-06,2011-04-11
 Prime Minister,Jeannot Ahoussou-Kouadio,Q57867,2012-03-13,2012-11-21
 Prime Minister,Daniel Kablan Duncan,Q58154,2012-11-21,2017-01-09
 Prime Minister,Amadou Gon Coulibaly,Q2840866,2017-01-10,2020-07-08
 Prime Minister,Hamed Bakayoko,Q3126401,2020-07-30,2021-03-10
+Prime Minister,Patrick Achi,Q3369176,2021-03-08,
 Minister of African Integration,Ally Coulibaly,Q2838739,2012-06-04,2020-05-13
 Minister of Culture,Théodore Mel Eg,Q3526462,2005-12-04,2007-03-29
+Minister of Defence,Guillaume Kigbafori Soro,Q313994,2011-04-11,2012-03-13
 Minister of Defence,Hamed Bakayoko,Q3126401,2017-07-19,2021-03-10
 Minister of Defence,Téné Birahima Ouattara,Q105833518,2021-03-08,
 Minister of the Economy and Finance,N'golo Coulibaly,Q99314971,2000-01,2000-05
@@ -25,11 +30,12 @@ Minister of the Economy and Finance,Adama Koné,Q99313278,2016-01,2019-09-04
 Minister of the Economy and Finance,Adama Coulibaly,Q2824041,2019-09-04,
 Minister of Foreign Affairs,Amara Essy,Q454785,1990,2000
 Minister of Foreign Affairs,Christophe M'Boua,Q108344978,2000,2000
-Minister of Foreign Affairs,Alcide Djédjé,Q2640305,2000,2003
 Minister of Foreign Affairs,Charles Gomis,Q71437989,2000-03,2000-10
+Minister of Foreign Affairs,Aboudramane Sangaré,Q60694641,2000-10,2003-03
 Minister of Foreign Affairs,Bamba Mamadou,Q4853306,2003,2006
 Minister of Foreign Affairs,Youssouf Bakayoko,Q58258,2006,2010
 Minister of Foreign Affairs,Jean-Marie Kacou Gervais,Q108344980,2010,2011
+Minister of Foreign Affairs,Alcide Djédjé,Q2640305,2010-12-07,2011-04-11
 Minister of Foreign Affairs,Daniel Kablan Duncan,Q58154,2011-06-01,2012-11-21
 Minister of Foreign Affairs,Charles Koffi Diby,Q2959525,2012-11-21,2016-01-13
 Minister of Foreign Affairs,Albert Mabri Toikeusse,Q1304104,2016-01-13,2016-11-25
@@ -39,6 +45,9 @@ Minister of Foreign Affairs,Kandia Camara,Q3192595,2021-04-06,
 Minister of Planning and Development,Kaba Nialé,Q22085045,2016-01-13,
 Minister of Presidential Affairs,Téné Birahima Ouattara,Q105833518,2012,2019
 Minister of Urban Development and Sanitation,Théodore Mel Eg,Q3526462,2007-03-29,2010-12-05
+President of the National Assembly,Mamadou Koulibaly,Q1888117,2001-01-22,2012-03-12
+President of the National Assembly,Guillaume Kigbafori Soro,Q313994,2012-03-12,2019-02-08
+President of the National Assembly,Amadou Soumahoro,Q68770341,2019-03-07,2022-05-07
 Head of the Armed Forces,Philippe Mangou,Q515195,2004,2011
 Head of the Armed Forces,Soumaila Bakayoko,Q63611068,2011-07-07,2017-01-09
 First Lady,Rose Doudou Guéï,Q656275,1999-12-24,2000-10-26
