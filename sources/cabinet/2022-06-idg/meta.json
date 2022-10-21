@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Ivory Coast",
+        "id": "Q1008"
+    },
+    "cabinet": {
+      "id":     "Q113484606",
+      "start":  "2022-04-20",
+      "parent": "Q3138408"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "155"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "Ivorian politician"
+    }
+}
