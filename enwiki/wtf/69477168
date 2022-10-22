@@ -1,0 +1,136 @@
+{
+  "title": "Belmonde Dogo",
+  "pageID": 69477168,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "Members of the National Assembly (Ivory Coast)",
+    "21st-century Ivorian women politicians",
+    "Government ministers of Ivory Coast",
+    "Women government ministers of Ivory Coast"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Belmonde Dogo is an Ivorian politician.",
+              "links": [
+                {
+                  "text": "Ivorian",
+                  "type": "internal",
+                  "page": "Ivory Coast"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Belmonde Dogo"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dogo was the vice president of the National Assembly of the Ivory Coast from 2016 to 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of the Ivory Coast"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since September 4, 2019, she has been the Secretary of State to the Minister of Women, Family and Children, in charge of the Empowerment of Women."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed Minister of Solidarity and the Fight against Poverty on April 6, 2021."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Belmonde_Dogo_2.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Belmonde_Dogo_2.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Belmonde_Dogo_2.jpg",
+          "caption": "Belmonde Dogo",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ivorian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "orphan"
+        },
+        {
+          "date": "December 2021",
+          "template": "improve categories"
+        },
+        {
+          "list": [
+            "Belmonde Dogo"
+          ],
+          "date": "December 2021",
+          "template": "expand french"
+        },
+        {
+          "template": "multiple issues"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lafriqueaujourdhui.net/dogoh-logboh-myss-belmonde-vice-presidente-de-l-assemblee-nationale-ivoirienne-le-president-bedie-a-toujours-sa-place-au-rhdp",
+          "title": "Dogoh Logboh Myss Belmonde, Vice-présidente de l'Assemblée nationale ivoirienne",
+          "website": "Lafriqueaujourdhui.net",
+          "access-date": "13 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.gouv.ci%2Fdoc%2FBiographie_belmonde.pdf",
+          "title": "Mys Belmonde Dogo",
+          "website": "Archive.wikiwix.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.abidjan.net/articles/690419-index",
+          "title": "Articles d'actualités - Abidjan.net News",
+          "website": "News.abidjan.net",
+          "access-date": "13 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "ivorycoast-politician-stub"
+        }
+      ]
+    }
+  ]
+}

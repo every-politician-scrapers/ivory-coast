@@ -1,0 +1,686 @@
+{
+  "title": "Sidi Tiémoko Touré",
+  "pageID": 68546615,
+  "categories": [
+    "Ivorian politicians",
+    "Rally of the Republicans politicians",
+    "Government ministers of Ivory Coast",
+    "HEC Paris alumni",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sidi Tiémoko Touré is an Ivorian politician, current Minister of Animal and Fisheries Resources.",
+              "formatting": {
+                "bold": [
+                  "Sidi Tiémoko Touré"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ivorian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "pov"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sidi Tiémoko Touré"
+          },
+          "image": {
+            "text": "Sidi Tiémoko TOURE.jpg"
+          },
+          "caption": {
+            "text": "Sidi Tiémoko Touré"
+          },
+          "office": {
+            "text": "Ivorian Minister of Animal and Fisheries Resources"
+          },
+          "term_start": {
+            "text": "6 April 2021"
+          },
+          "president": {
+            "text": "Alassane Ouattara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alassane Ouattara"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Patrick Achi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Achi"
+              }
+            ]
+          },
+          "state": {
+            "text": "Patrick Achi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Achi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dosso Moussa"
+          },
+          "office1": {
+            "text": "Ivorian Minister of Communication and Media Government spokesperson"
+          },
+          "term_start1": {
+            "text": "10 July 2018"
+          },
+          "term_end1": {
+            "text": "6 April 2021"
+          },
+          "president1": {
+            "text": "Alassane Ouattara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alassane Ouattara"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Amadou Gon Coulibaly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amadou Gon Coulibaly"
+              }
+            ]
+          },
+          "state1": {
+            "text": "Gon Coulibaly II et III",
+            "links": [
+              {
+                "text": "Gon Coulibaly II",
+                "type": "internal",
+                "page": "Government Gon Coulibaly II"
+              },
+              {
+                "text": "III",
+                "type": "internal",
+                "page": "Government Gon Coulibaly III"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Bruno Koné"
+          },
+          "office2": {
+            "text": "Minister of Youth Promotion, Youth Employment and Civic Service"
+          },
+          "term_start2": {
+            "text": "12 January 2016"
+          },
+          "term_end2": {
+            "text": "4 July 2018"
+          },
+          "president2": {
+            "text": "Alassane Ouattara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alassane Ouattara"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Daniel Kablan Duncan Amadou Gon Coulibaly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Kablan Duncan"
+              },
+              {
+                "type": "internal",
+                "page": "Amadou Gon Coulibaly"
+              }
+            ]
+          },
+          "state2": {
+            "text": "Duncan V Gon Coulibaly I",
+            "links": [
+              {
+                "text": "Duncan V",
+                "type": "internal",
+                "page": "Government Duncan V"
+              },
+              {
+                "text": "Gon Coulibaly I",
+                "type": "internal",
+                "page": "Government Gon Coulibaly I"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mamadou Touré",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mamadou Touré"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister Delegate to the President of the Republic, in charge of Youth Promotion and Youth Employment"
+          },
+          "term_start3": {
+            "text": "13 May 2015"
+          },
+          "term_end3": {
+            "text": "6 January 2016"
+          },
+          "president3": {
+            "text": "Alassane Ouattara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alassane Ouattara"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Daniel Kablan Duncan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Kablan Duncan"
+              }
+            ]
+          },
+          "state3": {
+            "text": "Duncan IV and V",
+            "links": [
+              {
+                "text": "Duncan IV",
+                "type": "internal",
+                "page": "Government Duncan IV"
+              },
+              {
+                "text": "V",
+                "type": "internal",
+                "page": "Government Duncan V"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Alain Lobognon"
+          },
+          "nationality": {
+            "text": "Ivorian",
+            "links": [
+              {
+                "text": "Ivorian",
+                "type": "internal",
+                "page": "Ivory Coast"
+              }
+            ]
+          },
+          "party": {
+            "text": "RDR",
+            "links": [
+              {
+                "text": "RDR",
+                "type": "internal",
+                "page": "Rassemblement des républicains de Côte d'Ivoire"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Paris Center for Diplomatic and Strategic Studies (CEDS)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "La Composition du Gouvernement Ivoirien - Présidence de la République de Côte d'Ivoire",
+          "url": "https://www.presidence.ci/composition/",
+          "website": "www.presidence.ci",
+          "language": "fr",
+          "date": "10 July 2018",
+          "access-date": "17 July 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sidi Tiémoko Touré is the current Ivorian Minister of Fisheries and Animal Resources and has been since April 6, 2021 in the second Patrick Achi's Government Patrick Achi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patrick Achi"
+                }
+              ]
+            },
+            {
+              "text": "Sidi Tiémoko Touré comes from the Béoumi district, where he served as deputy from 2016 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Béoumi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Nouveau gouvernement : une équipe de 37 ministres et 4 secrétaires d’état formée",
+          "url": "http://www.gouv.ci/_actualite-article.php?recordID=12106",
+          "website": "www.gouv.ci",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Academic background",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born to a housewife and a journalist, Sidi Tiémoko Touré is a graduate of the École Militaire Préparatoire Technique (EMPT) of Bingerville, the Lycée Technique d’Abidjan (LTA), thde l’Institut National Polytechnique Houphouët- Boigny of Yamoussoukro (Ex-INSET).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bingerville"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abidjan"
+                },
+                {
+                  "text": "Houphouët- Boigny",
+                  "type": "internal",
+                  "page": "Félix Houphouët-Boigny"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yamoussoukro"
+                }
+              ]
+            },
+            {
+              "text": "He also holds a certificate from the MUST program (Management of Strategic Units) of the Hautes Études Commerciales (HEC) in Paris and the Centre d’Étude Diplomatique et Stratégique (CEDS) in Paris.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paris"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paris"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a commercial engineer, he also holds a master's degree in Management and Business Administration from INSTEC (Institut National Supérieur des Techniques Commerciales) and a master's degree in Marketing and Communication from École de Commerce et de Gestion.",
+              "links": [
+                {
+                  "text": "École de Commerce et de Gestion",
+                  "type": "internal",
+                  "page": "École de commerce et de gestion de Rouen ISD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional life",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "With the skills he acquired during these various training courses, he began his professional career in the private sector."
+            },
+            {
+              "text": "This led him first to the Société Ivoirienne des Emballages Métalliques, then to the Société de Commercialisation de Matériel Électriques, as well as Schneider Electric West and Central Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Schneider Electric"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "First steps in politics",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sidi Tiémoko Touré began his political career with the Rassemblement des Républicains (RDR) in 1994, the year the party was created."
+            },
+            {
+              "text": "Within this formation, he contributed, with the First Secretary General of the Party, the late Djeni Kobina, to the establishment and implementation of the youth branch, namely the Rassemblement des Jeunes Républicains (RJR).",
+              "links": [
+                {
+                  "text": "Djeni Kobina",
+                  "type": "internal",
+                  "page": "Djéni Kobina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1994, he became President of the RJR Cocody-Aghien.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cocody"
+                }
+              ]
+            },
+            {
+              "text": "Two years later, he became interim President of the National Executive Bureau of the same"
+            },
+            {
+              "text": "organization."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2006, Alassane OUATTARA, then President of the Rassemblement Des Républicains (RDR), appointed him as Chief of Staff until 2011.",
+              "links": [
+                {
+                  "text": "Alassane OUATTARA",
+                  "type": "internal",
+                  "page": "Alassane Ouattara"
+                }
+              ]
+            },
+            {
+              "text": "Following his accession to the supreme magistracy, he became the Chief of Staff of the President of the Republic, HEM."
+            },
+            {
+              "text": "Alassane OUATTARA.",
+              "links": [
+                {
+                  "text": "Alassane OUATTARA",
+                  "type": "internal",
+                  "page": "Alassane Ouattara"
+                }
+              ]
+            },
+            {
+              "text": "In this capacity, he was also a member of the National Security Council of Côte d'Ivoire, until 2015."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Sidi Tiémoko Touré : \"L’avenir, c’est l’auto-emploi\"",
+          "url": "https://www.jeuneafrique.com/mag/289582/politique/cote-divoire-sidi-tiemoko-toure-lavenir-cest-lauto-emploi/",
+          "date": "13 January 2016",
+          "access-date": "13 January 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Entry into the Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He joined the government in May 2015 as Minister Delegate to the President of the Republic, in charge of Youth Promotion and Employment.",
+              "links": [
+                {
+                  "text": "Minister",
+                  "type": "internal",
+                  "page": "Minister (government)"
+                }
+              ]
+            },
+            {
+              "text": "He was reinforced in his functions in January 2016, as Minister of Youth Promotion, Youth Employment and Civic Service in the government led by Daniel Kablan Duncan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daniel Kablan Duncan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2018, under the Amadou Gon Coulibaly II Government, Sidi Tiémoko Touré was appointed Minister of Communication and Media and designated Government Spokesperson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amadou Gon Coulibaly"
+                }
+              ]
+            },
+            {
+              "text": "On August 3, 2020, he was reappointed to the same position in the Hamed Bakayoko Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hamed Bakayoko"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Prime Minister Patrick ACHI formed his first government in April 2021, he appointed Sidi Tiémoko Touré as Minister of Fisheries and Animal Resources.",
+              "links": [
+                {
+                  "text": "Patrick ACHI",
+                  "type": "internal",
+                  "page": "Patrick Achi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Côte d'Ivoire - 16ème GOUVERNEMENT DE LA DEUXIÈME RÉPUBLIQUE - DANIEL KABLAN DUNCAN",
+          "url": "http://www.gouv.ci/_details-historique-gouv.php?recordID=14",
+          "website": "www.gouv.ci",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "2ème GOUVERNEMENT DE LA TROISIÈME RÉPUBLIQUE DE CÔTE D’IVOIRE - AMADOU GON COULIBALY",
+          "url": "http://www.gouv.ci/_details-historique-gouv.php?recordID=19",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Arrival at the National Assembly",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "«STT», as his supporters call him, is the Deputy of the Rassemblement des Houphouétiste pour la Démocratie et la Paix (RHDP) of the electoral district of Ando-Kekrenou, Béoumi and Kondrobo, communes and sub-prefectures, duringthe 2016 – 2021 legislature.",
+              "links": [
+                {
+                  "text": "Rassemblement des Houphouétiste pour la Démocratie et la Paix (RHDP)",
+                  "type": "internal",
+                  "page": "Rassemblement des houphouëtistes pour la démocratie et la paix"
+                },
+                {
+                  "text": "Ando-Kekrenou",
+                  "type": "internal",
+                  "page": "Ando-Kékrénou"
+                },
+                {
+                  "type": "internal",
+                  "page": "Béoumi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kondrobo"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "STT"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Don de 1000 kits scolaires aux élèves de Béoumi - Sidi Tiémoko Touré",
+          "url": "https://www.aipci.net/cote-divoire-aip-le-ministre-sidi-toure-offre-1000-kits-scolaires-aux-eleves-de-beoumi/",
+          "website": "www.aipci.net",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "International Network",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "President of the Organization of the Liberal Youth of Côte d'Ivoire (OJLCI) in 1998, he became, in 2003, the President of the Organization of the African Liberal Youth (OJLA) until 2007, then a member of the board of the International Federation of Liberal and Radical Youth (IFLRY) before serving as Treasurer of the International Liberal between 2012 and 2013."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sidi Tiemoko Touré is not only a politician, he is also an author."
+            },
+            {
+              "text": "He has published two books: the first entitled \"Alassane Ouattara et les Jeunes, le temps des Possibles\" a collection of testimonies and tributes to the one he considers his mentor and his \"father\" ; and the second entitled \"Alassane Ouattara, aux portes de l’Emergence 2011-2020\" a book that highlights the record of the President since he took office in 2011 until 2020."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://books.google.com/books?id=SB6yYgEACAAJ",
+          "title": "Alassane Dramane Ouattara et les jeunes: le temps des possibles",
+          "date": "August 24, 2010",
+          "publisher": "S. Touré",
+          "via": "Google Books",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sidi Touré présente l’ouvrage \"Alassane Ouattara, aux portes de l’émergence\" - Présidentielle 2020",
+          "url": "https://news.abidjan.net/h/682486.html",
+          "website": "news.abidjan.net",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Officer of the Ivorian National Order, Sidi Tiemoko Touré is also Commander of the Order of Merit of Communication and Commander of Order of Agricultural Merit in Côte d'Ivoire."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "le premier Conseil de l’Ordre du Mérite voit le jour - Communication et Médias",
+          "url": "https://news.abidjan.net/h/657363.html",
+          "website": "news.abidjan.net",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Notes and references",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "politics"
+          ],
+          "template": "portal"
+        },
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

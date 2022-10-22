@@ -1,0 +1,111 @@
+{
+  "title": "Nasseneba Touré Diané",
+  "pageID": 69477136,
+  "categories": [
+    "21st-century Ivorian women politicians",
+    "21st-century Ivorian politicians",
+    "Living people",
+    "1972 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nasseneba Touré Diané is an Ivory Coast politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ivory Coast"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nasseneba Touré Diané"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Diané was born on 1972-09-24 in Korhogo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Korhogo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Diané is Minister of Women, Family and Children; mayor of the municipality of Odienné; and member of the Rally of Republicans (RDR)."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Image_2021-04-19_at_13.22.11.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Image_2021-04-19_at_13.22.11.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Image_2021-04-19_at_13.22.11.jpg",
+          "caption": "Nasseneba Touré Diané",
+          "links": [],
+          "alt": "Nasseneba Touré Diané"
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ivorian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "orphan"
+        },
+        {
+          "list": [
+            "Nasseneba Touré Diané"
+          ],
+          "date": "December 2021",
+          "template": "expand french"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.rti.info%2Fpolitique%2F4403",
+          "title": "Touré Nassénéba prend les commandes du Ministère de la Femme, de la Famille et de l’Enfant",
+          "publisher": "Archive.wikiwix.com",
+          "accessdate": "2021-12-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.abidjan.net%2Fqui%2Fprofil.asp%3Fid%3D931",
+          "title": "Nasseneba TOURÉ (Ingenieur NTIC, Bachelor en business international) - Abidjan.net Qui est qui ?",
+          "publisher": "Archive.wikiwix.com",
+          "date": "2013-04-11",
+          "accessdate": "2021-12-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
