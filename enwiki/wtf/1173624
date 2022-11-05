@@ -404,17 +404,23 @@
         {
           "sentences": [
             {
-              "text": "Ouattara was born on 1 January 1942, in Dimbokro in French West Africa.",
+              "text": "Ouattara was born on 1 January 1942, in SINDOU / Burkina Faso ex- Haute Volta in French West Africa.",
               "links": [
                 {
+                  "text": "'''SINDOU''' / Burkina Faso ex- Haute Volta",
                   "type": "internal",
-                  "page": "Dimbokro"
+                  "page": "'''SINDOU''' / Burkina Faso ex- Haute Volta"
                 },
                 {
                   "type": "internal",
                   "page": "French West Africa"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "SINDOU"
+                ]
+              }
             },
             {
               "text": "He is a descendant on his father's side of the Muslim rulers of Burkina Faso, then part of the Kong Empire—also known as the Wattara (Ouattarra) Empire.",
@@ -1329,7 +1335,7 @@
           "last1": "Lynch",
           "first2": "William",
           "last2": "Branigin",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "date": "11 April 2011",
           "access-date": "12 April 2011",
           "archive-date": "13 April 2011",
@@ -1509,6 +1515,7 @@
         {
           "url": "https://www.theguardian.com/world/2015/oct/28/alassane-ouattara-wins-ivory-coast-election-by-a-landslide",
           "title": "Alassane Ouattara wins Ivory Coast election by a landslide",
+          "website": "TheGuardian.com",
           "date": "28 October 2015",
           "access-date": "27 July 2021",
           "archive-date": "27 July 2021",
