@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Ivory Coast",
+        "id": "Q1008"
+    },
+    "cabinet": {
+      "id":     "Q113484606",
+      "start":  "2022-04-20",
+      "parent": "Q3138408"
+    },
+    "reference": {
+        "P854":   "https://www.gouv.ci/_legouvernement.php?recordID=27",
+        "P577":   "2022-04-20",
+        "P1476": {
+            "text": "LE GOUVERNEMENT PATRICK JEROME ACHI LE 20 AVRIL 2022",
+            "language": "fr"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "Ivorian politician"
+    }
+}
