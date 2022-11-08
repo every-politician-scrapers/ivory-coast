@@ -20,6 +20,11 @@ class MemberList
     field :position do
       noko.css('.desc').text.tidy
     end
+
+    field :gender do
+      return 'female' if name.downcase.start_with?('mme')
+      return 'male' if name.start_with?('M.')
+    end
   end
 
   class Members

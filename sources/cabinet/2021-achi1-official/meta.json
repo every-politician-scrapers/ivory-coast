@@ -4,8 +4,9 @@
         "id": "Q1008"
     },
     "cabinet": {
-      "id":     "Q113484606",
-      "start":  "2022-04-20",
+      "id":     "Q109037590",
+      "start":  "2021-04-06",
+      "end":    "2022-04-20",
       "parent": "Q3138408"
     },
     "reference": {
@@ -15,7 +16,6 @@
             "language": "fr"
         }
     },
-    "current_only": "true",
     "lang": "en",
     "person_description": {
         "en": "Ivorian politician"

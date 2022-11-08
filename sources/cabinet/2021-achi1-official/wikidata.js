@@ -8,7 +8,7 @@ module.exports = function () {
   let lang     = meta.lang || 'en'
   let curronly = meta.current_only ? "MINUS { ?ps pq:P582 [] }" : ""
 
-  return `SELECT DISTINCT ?item ?itemLabel ?position ?positionLabel
+  return `SELECT DISTINCT ?item ?itemLabel ?gender ?position ?positionLabel
                  ?startDate ?endDate ?source ?sourceDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
@@ -80,8 +80,9 @@ module.exports = function () {
 
       OPTIONAL { ?position rdfs:label ?labelPosition FILTER(LANG(?labelPosition) = "${lang}") }
       BIND(COALESCE(?sourcePosition, ?labelPosition) AS ?positionLabel)
-    }
 
+      OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
+    }
     # ${new Date().toISOString()}
     ORDER BY ?sourceDate ?start ?end ?item ?psid`
 }
