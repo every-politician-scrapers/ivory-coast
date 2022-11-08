@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+        "name": "Ivory Coast",
+        "id": "Q1008"
+    },
+    "cabinet": {
+      "id":     "Q109037590",
+      "start":  "2021-04-06",
+      "end":    "2022-04-20",
+      "parent": "Q3138408"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Achi_I"
+    },
+    "person_description": {
+        "en": "Ivorian politician"
+    }
+}
