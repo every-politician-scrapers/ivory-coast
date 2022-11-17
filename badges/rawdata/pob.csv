@@ -1,0 +1,91 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q100980938,Kouadio Konan Bertin,NormalRank,Q3216495,Lakota Department,true,true,true,false,false,true,true
+Q101584179,Fidèle Sarassoro,,,,,,false,,,,
+Q104437318,Laurent Tchagba,,,,,,false,,,,
+Q105833518,Téné Birahima Ouattara,,,,,,false,,,,
+Q106777843,Adama Kamara,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q107136438,Souleymane Roel Kone,NormalRank,Q1515,Abidjan,true,true,false,,,,
+Q107266901,Nasseneba Touré Diané,NormalRank,Q985627,Korhogo,true,true,true,false,true,false,false
+Q107466615,Belmonde Dogo,,,,,,false,,,,
+Q108344978,Christophe M'Boua,,,,,,false,,,,
+Q108344980,Jean-Marie Kacou Gervais,,,,,,false,,,,
+Q108752418,Amédé Koffi Kouakou,,,,,,false,,,,
+Q111334944,Gilbert Koné Kafana,NormalRank,Q3191849,Kagbolodougou,true,true,true,false,true,false,false
+Q111901694,Vagondo Diomandé,NormalRank,Q1008,Ivory Coast,true,false,true,false,false,true,true
+Q112684510,Lataille N’Guessan Koffi,NormalRank,Q2908271,Bocanda,true,true,true,false,true,false,false
+Q112947515,Siandou Fofana,,,,,,false,,,,
+Q112948561,Adama Diawara,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q113488775,Françoise Remarck,,,,,,false,,,,
+Q113528137,Jean-Luc Assi,NormalRank,Q1044225,Abengourou,true,true,true,false,true,false,false
+Q113680500,Souleymane Diarrassouba,,,,,,false,,,,
+Q113835506,Epiphane Zoro Bi Ballo,,,,,,false,,,,
+Q114787901,Thomas Camara,,,,,,false,,,,
+Q114788517,Amadou Coulibaly,,,,,,false,,,,
+Q114788519,Koffi N'Guessan,,,,,,false,,,,
+Q114788520,Moussa Sanogo,,,,,,false,,,,
+Q114788522,Pierre Dimba,,,,,,false,,,,
+Q115125638,Arlette N'Guessan Touamé,,,,,,false,,,,
+Q115125639,Brice Kouamé Kouassi,,,,,,false,,,,
+Q115125640,Clarisse Kayo Mahi,,,,,,false,,,,
+Q115125641,Célestin Serey Doh,,,,,,false,,,,
+Q115125643,Emmanuel Esmel Essis,,,,,,false,,,,
+Q115125644,Félix Anoblé,,,,,,false,,,,
+Q115125645,Roger Félix Adom,,,,,,false,,,,
+Q1304104,Albert Mabri Toikeusse,NormalRank,Q15212705,Danané,true,true,true,false,true,false,false
+Q1394077,Seydou Diarra,NormalRank,Q2409805,Katiola,true,true,true,false,false,false,true
+Q179242,Laurent Gbagbo,NormalRank,Q18592055,Gagnoa,true,true,true,false,false,false,true
+Q18384617,Abdourahmane Cissé,NormalRank,Q493643,Treichville,true,true,true,false,false,false,true
+Q1888117,Mamadou Koulibaly,NormalRank,Q2875068,Yamoussoukro,true,true,true,false,false,false,true
+Q19392607,Tiémoko Meyliet Koné,,,,,,false,,,,
+Q21280596,Sidi Tiémoko Touré,,,,,,false,,,,
+Q22085045,Kaba Nialé,NormalRank,Q2921669,Bouko,true,true,true,false,true,false,false
+Q24056959,Mariatou Koné,NormalRank,Q1008,Ivory Coast,true,false,true,false,false,false,true
+Q2640305,Alcide Djédjé,,,,,,false,,,,
+Q27757660,Yasmina Ouégnin,NormalRank,Q172455,Boulogne-Billancourt,true,true,true,false,false,false,true
+Q28150377,Alain-Richard Donwahi,NormalRank,Q1515,Abidjan,true,true,true,false,false,true,true
+Q2824041,Adama Coulibaly,NormalRank,Q985627,Korhogo,true,true,false,,,,
+Q2838739,Ally Coulibaly,NormalRank,Q3342323,Niéméné,true,true,true,false,true,false,false
+Q2840866,Amadou Gon Coulibaly,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q2959525,Charles Koffi Diby,NormalRank,Q271000,Bouaké,true,true,false,,,,
+Q30728030,Anne Desirée Ouloto,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q3126401,Hamed Bakayoko,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q313994,Guillaume Kigbafori Soro,NormalRank,Q3026444,Diawala,true,true,true,false,false,false,true
+Q3192595,Kandia Camara,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q3288607,Marcel Amon-Tanoh,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q3369176,Patrick Achi,NormalRank,Q90,Paris,true,true,true,false,false,false,true
+Q3370489,Paul Antoine Bohoun Bouabré,,,,,,false,,,,
+Q3472182,Sangafowa Coulibaly,NormalRank,Q985627,Korhogo,true,true,false,,,,
+Q3526462,Théodore Mel Eg,NormalRank,Q1515,Abidjan,true,true,true,false,false,false,true
+Q3526462,Théodore Mel Eg,NormalRank,Q1515,Abidjan,true,true,true,true,true,false,false
+Q3526462,Théodore Mel Eg,NormalRank,Q1515,Abidjan,true,true,true,false,true,false,false
+Q357802,Robert Guéï,NormalRank,Q1191011,Man,true,true,true,false,false,false,true
+Q41675123,Mamadou Touré,NormalRank,Q860304,Daloa,true,true,true,false,false,false,true
+Q437761,Simone Gbagbo,NormalRank,Q582922,Grand-Bassam,true,true,true,false,false,false,true
+Q44738480,Bruno Koné,NormalRank,Q1102790,Kouto,true,true,true,false,true,false,false
+Q454785,Amara Essy,NormalRank,Q271000,Bouaké,true,true,true,false,false,false,true
+Q455728,Charles Konan Banny,NormalRank,Q1530295,Divo,true,true,true,true,true,false,false
+Q4853306,Bamba Mamadou,,,,,,false,,,,
+Q49500308,Célestine Olibé Trazéré,NormalRank,Q271000,Bouaké,true,true,true,false,false,false,true
+Q514954,Dominique Folloroux-Ouattara,NormalRank,Q187346,Constantine,true,true,true,false,true,false,false
+Q515195,Philippe Mangou,NormalRank,Q1515,Abidjan,true,true,true,false,false,false,true
+Q56308663,Claude Paulin Danho,NormalRank,Q678980,Dimbokro,true,true,true,false,true,false,false
+Q56308663,Claude Paulin Danho,NormalRank,Q678980,Dimbokro,true,true,true,false,false,false,true
+Q59867225,Kobenan Kouassi Adjoumani,,,,,,false,,,,
+Q60694641,Aboudramane Sangaré,NormalRank,Q6711902,M'bahiakro,true,true,true,false,false,true,true
+Q60832327,Amadou Koné,,,,,,false,,,,
+Q62566689,Bouake Fofana,NormalRank,Q1008,Ivory Coast,true,false,true,false,false,false,true
+Q63611068,Soumaila Bakayoko,NormalRank,Q8173842,Séguéla Department,true,true,true,false,true,false,false
+Q656275,Rose Doudou Guéï,,,,,,false,,,,
+Q68770341,Amadou Soumahoro,NormalRank,Q952665,Séguéla,true,true,true,false,false,false,true
+Q71437989,Charles Gomis,NormalRank,Q582922,Grand-Bassam,true,true,true,false,false,true,true
+Q717915,Pascal Affi N'Guessan,NormalRank,Q2911908,Bouadikro,true,true,true,false,false,false,true
+Q90018658,Sansan Kambilé,,,,,,false,,,,
+Q96678215,Adama Bictogo,,,,,,false,,,,
+Q971859,Gilbert Aké,NormalRank,Q1515,Abidjan,true,true,true,true,false,false,false
+Q99313278,Adama Koné,,,,,,false,,,,
+Q99314971,N'golo Coulibaly,,,,,,false,,,,
+Q57413,Alassane Ouattara,NormalRank,Q678980,Dimbokro,true,true,true,false,false,false,true
+Q57867,Jeannot Ahoussou-Kouadio,NormalRank,Q3420293,Raviart,true,true,true,false,false,false,true
+Q58154,Daniel Kablan Duncan,NormalRank,Q3358064,Ouellé,true,true,true,false,true,false,false
+Q58154,Daniel Kablan Duncan,NormalRank,Q3358064,Ouellé,true,true,true,false,false,false,true
+Q58258,Youssouf Bakayoko,NormalRank,Q271000,Bouaké,true,true,true,false,true,false,false
