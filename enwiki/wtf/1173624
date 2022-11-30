@@ -404,23 +404,17 @@
         {
           "sentences": [
             {
-              "text": "Ouattara was born on 1 January 1942, in SINDOU / Burkina Faso ex- Haute Volta in French West Africa.",
+              "text": "Ouattara was born on 1 January 1942, in Dimbokro in French West Africa.",
               "links": [
                 {
-                  "text": "'''SINDOU''' / Burkina Faso ex- Haute Volta",
                   "type": "internal",
-                  "page": "'''SINDOU''' / Burkina Faso ex- Haute Volta"
+                  "page": "Dimbokro"
                 },
                 {
                   "type": "internal",
                   "page": "French West Africa"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "SINDOU"
-                ]
-              }
+              ]
             },
             {
               "text": "He is a descendant on his father's side of the Muslim rulers of Burkina Faso, then part of the Kong Empire—also known as the Wattara (Ouattarra) Empire.",
