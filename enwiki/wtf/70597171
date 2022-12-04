@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Tiémoko Meyliet Koné, (born 26 April 1949) is an Ivorian economist and politician.",
+              "text": "Tiémoko Meyliet Koné (born 26 April 1949) is an Ivorian economist and politician.",
               "formatting": {
                 "bold": [
                   "Tiémoko Meyliet Koné"
@@ -41,6 +41,10 @@
         {
           "description": "2nd Vice President of Ivory Coast",
           "template": "short description"
+        },
+        {
+          "date": "December 2022",
+          "template": "use dmy dates"
         },
         {
           "year": "1949",
