@@ -9,6 +9,8 @@
     "Heads of government of Ivory Coast",
     "Ivorian expatriates in the United States",
     "People named in the Pandora Papers",
+    "Ivorian people of Breton descent",
+    "Ivorian people of French descent",
     "Stanford University alumni",
     "21st-century Ivorian politicians"
   ],
@@ -20,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Patrick Achi (born 17 November 1955) is an Ivorian politician who serves as Prime Minister of Ivory Coast since March 2021.",
+              "text": "Patrick Jérôme Achi (born 17 November 1955) is an Ivorian politician who serves as Prime Minister of Ivory Coast since March 2021.",
               "links": [
                 {
                   "text": "Ivorian",
@@ -40,7 +42,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Patrick Achi"
+                  "Patrick Jérôme Achi"
                 ]
               }
             },
